@@ -1,0 +1,16 @@
+/* vh-height-percentage of the screen /*
+/* vw- width- percentage of the screen */
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.header{
+    height:50vh;
+    width:50vw;
+    background-color: chocolate;
+}
+.banner{
+    background-color: aqua;
+    min-height: 110vh;
+    

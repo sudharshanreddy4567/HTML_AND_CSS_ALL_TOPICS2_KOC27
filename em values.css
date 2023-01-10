@@ -1,0 +1,14 @@
+/* em - Relative depends upon the parent */
+/* lem=16px default broswer style; */
+/* lem = base value */
+
+div{
+    font-size:32px;
+}
+.relative{
+    font-size:2em;
+
+}
+.absolute{
+    font-size:32px;
+}

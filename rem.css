@@ -1,0 +1,13 @@
+/* rem = RELATIVE depends on in root */
+/* 1 rem =16px :default breswer style; */
+html{
+    font-size:45px;
+}
+.relative {
+    font-size:2rem;
+    
+}
+.absolute{
+    font-size:34rem;
+      
+}

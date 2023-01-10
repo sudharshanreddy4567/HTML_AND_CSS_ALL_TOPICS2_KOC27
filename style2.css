@@ -1,0 +1,18 @@
+/* rgb (RED , GREEN , BLUE) 0-225 */
+
+#first{
+    color:rgb(22, 33,0);
+    background-color: rgb(22,75,0);
+}
+#second{
+   color: rgb(19, 109, 187);
+    
+}
+#third{
+    color:blue;
+    background-color:rgba(176, 70, 70, 0.5);
+}
+body{
+    background-color:rgba(151, 136, 151);
+}
+ 

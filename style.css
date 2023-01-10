@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+#first{
+    background-color: chocolate;
+    font-style: oblique;
+    font-weight: 300;
+
+}
+#second{
+    background-color: cornsilk;
+    font-style: inherit;
+    font-stretch: ultra-condensed;
+}
+
+
+
+
+
+
+
+
+
